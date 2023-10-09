@@ -28,3 +28,5 @@ He would like a dashboard of this where he selects a month and can tell how many
 He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.
+
+# Dashboard: https://drive.google.com/file/d/1EFk8gugtYREBm9r-ljOD2ji90KxByLsk/view?usp=sharing
